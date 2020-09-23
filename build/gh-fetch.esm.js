@@ -1,0 +1,1 @@
+import{p as r,b as t}from"./p-f24035f7.js";(()=>{const t=import.meta.url,o={};return""!==t&&(o.resourcesUrl=new URL(".",t).href),r(o)})().then(r=>t([["p-1a473997",[[0,"gh-fetch",{shortname:[1]}]]]],r));
